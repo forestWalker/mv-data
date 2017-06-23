@@ -1,10 +1,33 @@
 {
-	"companyLogo": "http://lea.verou.me/logo.svg",
-	"companyName": "Lea Verou",
+	"companyLogo": "https://cdn.rawgit.com/leaverou/mv-data/68692bb826631011e8000f0c96cbce34d30b8f47/images/cho.jpg",
+	"companyName": "ForestWalker",
 	"companyAddress": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
 	"companyURL": "http://lea.verou.me",
 	"companyEmail": "lea@verou.me",
 	"invoice": [
+		{
+			"id": "3",
+			"date": "2017-06-25",
+			"recipient": {
+				"name": "Test 1\n",
+				"address": "asdasdasd"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "asd",
+					"amount": "10"
+				},
+				{
+					"description": "asdasdas",
+					"amount": "233"
+				},
+				{
+					"description": "fgh",
+					"amount": "123"
+				}
+			]
+		},
 		{
 			"id": "2",
 			"date": "2016-10-06",
